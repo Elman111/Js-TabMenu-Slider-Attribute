@@ -1,0 +1,28 @@
+ .period {
+    position: relative;
+    margin-top: 13%;
+  }
+  .period .top-period {
+    display: flex;
+  }
+  .period .buttons {
+    font-size: 30px;
+    margin-left: 30px;
+    color: #48abc9;
+    cursor: pointer;
+  }
+  .cards .cards-items .card-img {
+    display: none;
+  }
+  
+  .cards .cards-items .card-img h4 {
+    padding-left: 111px;
+  }
+  .cards .cards-items img {
+    width: 290px;
+    height: 250px;
+    border-radius: 12px;
+  }
+  .active {
+    display: block !important;
+  }
